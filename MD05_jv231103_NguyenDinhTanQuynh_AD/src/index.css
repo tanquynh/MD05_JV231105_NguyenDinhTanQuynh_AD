@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn-count {
+  border: 1px solid transparent;
+  border-radius: 4px;
+  min-width: 25px;
+  max-width: 25px;
+  text-align: center;
+  padding: 0;
+  background-color: bisque;
+}
+
+.quantity {
+  margin: 0 10px;
+}
+
+.currsor-pointer {
+  cursor: pointer;
+}
